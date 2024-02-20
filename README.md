@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋, i'm currently a student and a programmer at the same time!
 
 <!--
 **FatihHDR/fatihhdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
