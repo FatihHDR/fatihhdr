@@ -1,4 +1,4 @@
-### Hi there👋, i'm currently working on a software project!
+### Howdy👋, i'm currently working on a cool project!
 
 <p align="left">
 <a href="https://github.com/fatihhdr">
