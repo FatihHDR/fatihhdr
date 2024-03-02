@@ -12,7 +12,8 @@
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> <a href="https://www.python.org" target="_blank" rel="nonreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a> <a href="https://cplusplus.com" target="_blank" rel="nonreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>  
-</a> <a href="https://www.kali.org/" target="_blank" rel="nonreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="kali" width="40" height="40"/>          
+</a> <a href="https://www.kali.org/" target="_blank" rel="nonreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="kali" width="40" height="40"/>
+</a> <a href="https://code.visualstudio.com/" target="_blank" rel="nonreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </a> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="nonreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
 </a> <a href="https://atom-editor.cc/" target="_blank" rel="nonreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" alt="atom" width="40" height="40" />
           
