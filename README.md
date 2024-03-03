@@ -1,4 +1,4 @@
-### Howdy👋, i'm currently working on a cool project!
+### My stats
 
 <p align="left">
 <a href="https://github.com/fatihhdr">
