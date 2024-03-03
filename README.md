@@ -1,4 +1,4 @@
-### My stats
+### My Stats:
 
 <p align="left">
 <a href="https://github.com/fatihhdr">
