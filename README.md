@@ -22,6 +22,3 @@
   <a href="https://atom-editor.cc/" target="_blank" rel="nonreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" alt="atom" width="40" height="40" />
 </a>          
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FatihHDR&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
