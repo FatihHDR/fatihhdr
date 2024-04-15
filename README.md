@@ -18,5 +18,6 @@
   <a href="https://www.kali.org/" target="_blank" rel="nonreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="kali" width="40" height="40"/>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="nonreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="nonreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+  <a href="https://www.arduino.cc/en/software" target="_blank" rel="nonreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
 </a>          
 </p>
