@@ -7,6 +7,8 @@
   </a>
 </p>
 
+<a href="https://wakatime.com/@125b210a-147c-456f-be4b-f729e5e54b21"><img src="https://wakatime.com/badge/user/125b210a-147c-456f-be4b-f729e5e54b21.svg" alt="Total time coded since Sep 22 2025" /></a>
+
  ## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fatihsnapz) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BigMusclBoy) 
 </p> 📫 Need any help? Contact me: 
