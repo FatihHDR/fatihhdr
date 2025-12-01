@@ -42,6 +42,9 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
   </a>
+  <a href="https://grpc.io/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" alt="grpc" width="40" height="40"/> 
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
   </a>
