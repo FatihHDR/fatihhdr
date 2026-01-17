@@ -38,8 +38,8 @@
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> 
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://grpc.io/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" alt="grpc" width="40" height="40"/> 
