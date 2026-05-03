@@ -16,47 +16,4 @@
 
 ## 💻 Tech Stack:
 
-<p align="left">
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="cs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/>  
-  </a>
-   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>  
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/> 
-  </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> 
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://grpc.io/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" alt="grpc" width="40" height="40"/> 
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
-  </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="laravel" width="40" height="40"/> 
-  </a>
-  <a href="https://www.nestjs.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>    
-   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="postgre" width="40" height="40"/>    
-   </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,dart,python,go,php,flutter,nestjs,nextjs,laravel,postgres&perline=8)](https://skillicons.dev)
