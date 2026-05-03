@@ -16,4 +16,4 @@
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,ts,dart,python,go,php,flutter,nestjs,nextjs,laravel,postgres&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,dart,python,go,php,flutter,nestjs,nextjs,prisma,laravel,postgres,arch,graphql,docker&perline=8)](https://skillicons.dev)
